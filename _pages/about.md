@@ -17,42 +17,67 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hello, I am Hanmo You from Tianjin University. I am currently a 4th-year PhD student from  <a href='https://tjusail.github.io/'>WISE Lab</a>  at Tianjin University, supervised by Prof. Junjie Chen and Prof. Zan Wang.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include software testing, software engineering for AI, and AI for software engineering. During my PhD, I am currently focusing on protecting the safety of deep learning systems throughout their evolution.
 
+I have always loved traveling around the world. During my undergraduate years, I went backpacking for an extended period to visit countries including Japan, Thailand, Laos, and Myanmar. I have also traveled to the European continent, the African continent, and Oceania, and I am still looking forward to seeing more of the world.
+
+P.S. I am scheduled to graduate in June 2026 and am seeking postdoctoral positions or research faculty roles (e.g., Assistant/Associate Professor) at colleges and universities. If you have an available position and are interested in my research, please do not hesitate to contact me. My Email: youhanmo {at} tju {dot} edu {dot} cn
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.06*: &nbsp;🎉🎉 Our Paper ‘A Comprehensive Study of Deep Learning Model Fixing Approaches’ has been accepted by ICSE 2026 First Cycle. 
+- *2025.05*: &nbsp;🎉🎉 I am selected (only two senior PhD students are chosen) to give a job talk at the Doctoral Symposium session of FSE 2025.
+- *2025.04*: &nbsp;🎉🎉 Our Paper 'Exploring JVM Garbage Collector Testing with Event-Coverage' has been accepted by TOSEM.
+- *2024.12*: &nbsp;🎉🎉 Our Paper 'Mitigating Regression Faults Induced by Feature Evolution in Deep Learning Systems' has been accepted by TOSEM.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+## My Representing Works (SE for AI)
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- [ A Comprehensive Study of Deep Learning Model Fixing Approaches](https://github.com), **Hanmo You**, Zan Wang, Zishuo Dong, Luanqi Mo, Jianjun Zhao, Junjie Chen\*, **ICSE 2026 (CCF-A)** 
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- [ Mitigating Regression Faults Induced by Feature Evolution in Deep Learning Systems](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?article=11116&context=sis_research), **Hanmo You**, Zan Wang, Xuyang Chen, Junjie Chen\*, Jun Sun, Shuang Liu, Zishuo Dong, **TOSEM 2025 (CCF-A)**
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- [ Navigating the Testing of Evolving Deep Learning Systems: An Exploratory Interview Study](https://binlin.info/downloads/You2025a.pdf), **Hanmo You**, Zan Wang, Bin Lin, Junjie Chen\*, **ICSE 2025 (CCF-A)**
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [ Regression Fuzzing for Deep Learning Systems](https://tjusail.github.io/people/papers/Deep%20Learning%20Regression%20Fuzzing.pdf), **Hanmo You**, Zan Wang, Junjie Chen\*, Shuang Liu, Shuochuan Li, **ICSE 2023 (CCF-A)**
+
+- [ Prioritizing Test Inputs for Deep Neural Networks via Mutation Analysis](https://tjusail.github.io/people/chenjunjie/files/ICSE21-PRIMA.pdf), Zan Wang, **Hanmo You**, Junjie Chen\*, Yingyi Zhang, Xuyuan Dong, Wenbin Zhang, **ICSE 2021 (CCF-A)**
+
+## Others 
+
+- [ Exploring JVM Garbage Collector Testing with Event-Coverage](https://dl.acm.org/doi/abs/10.1145/3733598), Kai Zheng, Zan Wang, Yingquan Zhao, Junjie Chen\*, **Hanmo You**, Haoyu Wang, Yiheng Du, Tianchang Gao, **TOSEM 2025 (CCF-A)** 
+
+- [ Mapping APIs in Dynamic-typed Programs by Leveraging Transfer Learning](https://dl.acm.org/doi/abs/10.1145/3641848), Zhenfei Huang, Junjie Chen, Jiajun Jiang\*, Yihua Liang, **Hanmo You**, Fengjie Li,  **TOSEM 2024 (CCF-A)** 
+
+- [ A Post-training Framework for Improving the Performance of Deep Learning Models via Model Transformation](https://dl.acm.org/doi/abs/10.1145/3630011), Jiajun Jiang, Junjie Yang, Yingyi Zhang, Zan Wang, **Hanmo You**, Junjie Chen\*,  **TOSEM 2024 (CCF-A)** 
+
+- [ APIRecX: Cross-Library API Recommendation via Pre-Trained Language Model](https://aclanthology.org/2021.emnlp-main.275.pdf), Yuning Kang, Zan Wang, Yingyi Zhang, Hongyu Zhang, Junjie Chen\*, **Hanmo You**, **EMNLP 2021 (CCF-B)** 
+
+- [ Practical Accuracy Estimation for Efficient Deep Neural Network Testing](https://par.nsf.gov/servlets/purl/10217487), Junjie Chen, Zhuo Wu, Zan Wang, **Hanmo You**, Lingming Zhang, Ming Yan, **TOSEM 2020 (CCF-A)** 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.10* National Scholarship for Postgraduates
+- *2022.04* Top-10 Elite Students Award, College of Intelligence and Computing, Tianjin University
+- *2024.09* Lenovo Scholarship
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - 2026.06 (now)*, Phd Degree, College of Intelligence and Computing, Tianjin University. 
+- *2019.09 - 2022.06*, Bachelor Degree, College of Intelligence and Computing, Tianjin University. 
+- *2017.05 - 2017.12*, Global Exchange Students, School of Computer Science, RMIT University, AU.
+- *2015.09 - 2019.06*, Bachelor Degree, School of Software Engineering, Tianjin University. 
+
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2025.06*, Regression Fault Detection and Mitigation in the Evolution of Deep Learning Systems. Doctoral Symposium. FSE 2025.
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+# 💻 Internships and Volunteers
+
+- *DeepTest 2026*, PC.
+- *MSR 2025*, Junior PC.
+- *AISQ 2025*, PC.
+- *AISQ 2026*, PC.
+- *Automated Software Engineering*, Reviewer.
+
